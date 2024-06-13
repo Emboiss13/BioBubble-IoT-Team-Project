@@ -4,7 +4,7 @@
 BioBubble.py is a Python script designed to manage and monitor the environmental conditions of plants under a protective cover, referred to as the "Bio Bubble". This project is part of the Smart Agriculture domain, focusing on optimizing conditions in greenhouses through IoT technologies.
 
 ### 📽️ Watch our DEMO video!!
-Follow this link
+Follow this [link](https://youtu.be/2qvQRj2mHhM)!
 
 ## 🗒️ Features
 - **Data Collection**: Gathers real-time data on temperature, humidity, and light levels.
